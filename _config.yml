@@ -22,9 +22,9 @@ title: Ziyu's blog
 email: ziyu.li0425@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal journey through the world of AI — learning, experimenting, and sharing what I discover about deep learning, computer vision, and beyond.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
 github_username:  ziyu0425
 
 # Build settings
